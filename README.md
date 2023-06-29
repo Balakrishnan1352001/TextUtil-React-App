@@ -10,4 +10,7 @@ TextUtil is a sophisticated web application built using React.js that provides a
 6. Line Count:- The software also has a line count function that counts the number of lines in the entered text. This might be useful for formatting or analysing the text's structure.
 7. Character Count:- The character count functionality in TextUtil estimates the total number of characters in the entered text. Spaces, punctuation marks, and special characters are all included. Character count is frequently useful in content production or while sticking to character constraints.
 
-TextUtil is a robust web application built using React.js that offers a variety of text manipulation functions. It makes it easier to change the case of text, clear content, copy text, and acquire useful statistics such as word count, line count, and character count. TextUtil is a great tool for anybody who works with text, from authors and editors to students and professionals, thanks to its user-friendly design and efficient performance.
+![image](https://github.com/Balakrishnan1352001/TextUtil-React-App/assets/85740153/f8607807-5c25-4752-b3b8-83aa1c60a055)
+
+![image](https://github.com/Balakrishnan1352001/TextUtil-React-App/assets/85740153/ad884603-1b02-401d-8f41-a8f96684cf16)
+
